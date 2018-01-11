@@ -37,7 +37,7 @@ DEFINE('DMN_PID_PREFIX','dmn');
 DEFINE('DMN_PID_REGEX',"/dmn(\d\d*)/");
 
 // Default path to dashd
-DEFINE('DMN_DASHD_DEFAULT','/usr/local/bin/dashd');
+DEFINE('DMN_DASHD_DEFAULT','/usr/local/bin/energid');
 
 // How much to wait for start/stop before giving up (in seconds)
 DEFINE('DMN_STOPWAIT',10);
